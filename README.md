@@ -1,5 +1,5 @@
 # Jogo de Dados Java  :game_die:
-## Programa ao ser executado mostrará a face do dado. Bora Jogar!  
+## Programa ao ser executado mostrará a face do dado. Bora Jogar!  :man_technologist:
 
 [![Linkedin Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&link=https://www.w3schools.com/java/default.asp)](https://www.w3schools.com/java/default.asp)
 
